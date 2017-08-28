@@ -5,6 +5,7 @@
 
 .hero {
   background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  <!-- background-image: url(src="./resources/images/the-flatiron-building.png"); -->
   color: white;
 }
 
@@ -22,6 +23,10 @@ h2 {
 h3 {
   font-size: 23px;
   font-weight: bold;
+}
+
+.hero h3 {
+  color: white;
 }
 
 p {
