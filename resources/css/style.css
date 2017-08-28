@@ -40,3 +40,10 @@ a {
 ul {
   list-style-type: none;
 }
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
